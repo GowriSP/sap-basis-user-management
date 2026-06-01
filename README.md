@@ -1,4 +1,3 @@
-# sap-basis-user-management
 # SAP BASIS User Management
 
 ![SAP](https://img.shields.io/badge/SAP-BASIS-blue)
